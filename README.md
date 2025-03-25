@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vks
+- 👋 Hi, I’m Kauê VVictor
 - 👀 I’m interested in Game developing
 - 🌱 I’m currently learning pythom.
-- 💞️ I’m looking to collaborate on GameDev PHB
+- 💞️ I’m looking to collaborate on G-Dev Society
 - 📫 How to reach me kauephbnet@gmail.com
   
 
