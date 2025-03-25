@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kauê VVictor
+- 👋 Hi, I’m Kauê Victor
 - 👀 I’m interested in Game developing
 - 🌱 I’m currently learning pythom.
 - 💞️ I’m looking to collaborate on G-Dev Society
